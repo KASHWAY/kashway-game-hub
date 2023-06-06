@@ -1,4 +1,4 @@
-import noImage from '../assets/logo-game-hub.jpeg'
+import noImage from '../assets/no-image-placeholder.webp'
 
 const getCroppedImageUrl = (url: string) => {
     if (!url) return noImage;
